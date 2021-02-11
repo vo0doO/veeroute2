@@ -1,0 +1,6 @@
+{
+  "path": {
+    "data": "data/data.csv",
+    "cleaned_data": "data/cleaned_data.csv"
+  }
+}
